@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProyectoLibreria", "ProyectoLibreria\", "{1D5D85C3-1658-C81D-BC05-92D8D369C903}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63737"
+		Debug.AspNetCompiler.PhysicalPath = "ProyectoLibreria\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63737\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63737"
+		Release.AspNetCompiler.PhysicalPath = "ProyectoLibreria\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63737\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63737"
+		SlnRelativePath = "ProyectoLibreria\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5D85C3-1658-C81D-BC05-92D8D369C903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5D85C3-1658-C81D-BC05-92D8D369C903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF897A2-DC38-4AA7-8EB9-F3EE1CF582C3}
+	EndGlobalSection
+EndGlobal
