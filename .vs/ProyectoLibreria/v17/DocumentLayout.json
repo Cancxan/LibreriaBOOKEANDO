@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ProyectoLibreria\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\ProyectoLibreria\\ProyectoLibreria|c:\\users\\usuario\\desktop\\proyectolibreria\\proyectolibreria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\ProyectoLibreria\\ProyectoLibreria|solutionrelative:proyectolibreria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|c:\\users\\usuario\\desktop\\libreriabookeando\\proyectolibreria\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|solutionrelative:proyectolibreria\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DE24C1-352D-4532-B655-FC76601753A8}|Servicios\\Servicios.csproj|c:\\users\\usuario\\desktop\\libreriabookeando\\servicios\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DE24C1-352D-4532-B655-FC76601753A8}|Servicios\\Servicios.csproj|solutionrelative:servicios\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DE24C1-352D-4532-B655-FC76601753A8}|Servicios\\Servicios.csproj|c:\\users\\usuario\\desktop\\libreriabookeando\\servicios\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DE24C1-352D-4532-B655-FC76601753A8}|Servicios\\Servicios.csproj|solutionrelative:servicios\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|c:\\users\\usuario\\desktop\\libreriabookeando\\proyectolibreria\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|solutionrelative:proyectolibreria\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285883A7-C038-4EEA-8185-DDF52CC87987}|DAL\\DAL.csproj|c:\\users\\usuario\\desktop\\libreriabookeando\\dal\\dalconexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285883A7-C038-4EEA-8185-DDF52CC87987}|DAL\\DAL.csproj|solutionrelative:dal\\dalconexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1B90BE-D554-482B-8D40-D4E9B829EED0}|BLL\\BLL.csproj|c:\\users\\usuario\\desktop\\libreriabookeando\\bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1B90BE-D554-482B-8D40-D4E9B829EED0}|BLL\\BLL.csproj|solutionrelative:bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBBAFC1-4390-4BF9-A373-E2983B9D213C}|BE\\BE.csproj|c:\\users\\usuario\\desktop\\libreriabookeando\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBBAFC1-4390-4BF9-A373-E2983B9D213C}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|c:\\users\\usuario\\desktop\\libreriabookeando\\proyectolibreria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1D5D85C3-1658-C81D-BC05-92D8D369C903}|C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria|solutionrelative:proyectolibreria\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,11 +54,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\Servicios\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Servicios\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\Servicios\\HashHelper.cs",
+              "RelativeToolTip": "Servicios\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:04:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\Servicios\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Servicios\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\Servicios\\SessionManager.cs",
+              "RelativeToolTip": "Servicios\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:55:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Login.aspx.cs",
+              "RelativeToolTip": "ProyectoLibreria\\Login.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:53:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLLUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\BLL\\BLLUsuario.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\BLL\\BLLUsuario.cs",
+              "RelativeToolTip": "BLL\\BLLUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:51:37.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALConexiones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\DAL\\DALConexiones.cs",
+              "RelativeDocumentMoniker": "DAL\\DALConexiones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\DAL\\DALConexiones.cs",
+              "RelativeToolTip": "DAL\\DALConexiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:39:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Login.aspx",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Login.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Login.aspx",
+              "RelativeToolTip": "ProyectoLibreria\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-18T22:14:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\BE\\Usuario.cs",
+              "RelativeToolTip": "BE\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:33:46.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ProyectoLibreria\\ProyectoLibreria\\Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Default.aspx",
               "RelativeDocumentMoniker": "ProyectoLibreria\\Default.aspx",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ProyectoLibreria\\ProyectoLibreria\\Default.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\LibreriaBOOKEANDO\\ProyectoLibreria\\Default.aspx",
               "RelativeToolTip": "ProyectoLibreria\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
